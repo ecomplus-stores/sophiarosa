@@ -668,6 +668,36 @@
     </url>
   
     <url>
+      <loc>https://sophiarosa.com.br/aquarela</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://sophiarosa.com.br/contos-da-asia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://sophiarosa.com.br/antix</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://sophiarosa.com.br/lolita-pimenta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://sophiarosa.com.br/miss-mary</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://sophiarosa.com.br/short</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -716,37 +746,7 @@
     </url>
   
     <url>
-      <loc>https://sophiarosa.com.br/aquarela</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://sophiarosa.com.br/contos-da-asia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://sophiarosa.com.br/antix</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://sophiarosa.com.br/lolita-pimenta</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://sophiarosa.com.br/miss-mary</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://sophiarosa.com.br/pages/faq</loc>
+      <loc>https://sophiarosa.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -758,25 +758,25 @@
     </url>
   
     <url>
+      <loc>https://sophiarosa.com.br/pages/faq</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://sophiarosa.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://sophiarosa.com.br/pages/contato</loc>
+      <loc>https://sophiarosa.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://sophiarosa.com.br/pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://sophiarosa.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
