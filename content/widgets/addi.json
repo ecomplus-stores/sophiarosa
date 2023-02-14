@@ -1,10 +1,10 @@
 {
   "pkg": "@ecomplus/widget-addi",
-  "active": false,
+  "active": true,
   "desktopOnly": false,
   "options": {
     "enableWidgetProduct": true,
-    "allySlug": ""
+    "allySlug": "sophiarosaboutique-ecommerce"
   },
   "productSlots": "src/append/product-slots",
   "bodyAppend": "src/append/body"
