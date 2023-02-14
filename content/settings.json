@@ -1,13 +1,13 @@
 {
   "domain": "sophiarosa.com.br",
-  "repository": "ecomplus-stores/sophiarosa",
   "currency_symbol": "R$",
-  "primary_color": "#dfc5c9",
+  "primary_color": "#1c1a1a",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/sophiarosa",
   "logo": "/img/uploads/1646688889350-rosatel.jpg",
   "name": "SHOPIA ROSA BOUTIQUE",
   "short_name": "sophiarosa",
