@@ -1,1 +1,14 @@
 // Add your custom CSS here.
+.product-card, .products-carousel__item {
+    padding: 0;
+  }
+.search-engine__retail .row .col-6.col-md-4.col-lg-3, .search-engine__results .container {
+    padding-left: .2rem;
+    padding-right: .2rem;
+}
+@media(min-width: 576px) {
+    .shelfs-nav__tabs {
+        display: flex;
+        justify-content: center;
+    }
+}

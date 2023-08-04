@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#1c1a1a",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "minty",
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/sophiarosa",

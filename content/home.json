@@ -7,9 +7,42 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "622a3ffa8bd0103c54ec533b:categories:Vestidos:/vestidos",
+        "622a557b8bd0103c54ec9c24:categories:Short:/short",
+        "622b8aff8bd0103c54eeb0eb:categories:Saia:/saia"
+      ],
+      "shelfs_title": "Mais Vendidos",
+      "sort": "sales"
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "622a55bc8bd0103c54ec9cc2:categories:Macaquinho:/macaquinho",
+        "6241bf6c2e405e04ff046a50:categories:Macacão:/macacao"
+      ],
+      "shelfs_title": "Mais Queridos",
+      "sort": "views"
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "622b79ea8bd0103c54ee8082:categories:Camisa:/camisa",
+        "622b91558bd0103c54eec349:categories:Jaqueta:/jaqueta",
+        "622a67b98bd0103c54ecd674:categories:Blusa:/blusa"
+      ],
+      "shelfs_title": "Está na Moda",
+      "sort": "views"
     }
   ]
 }
