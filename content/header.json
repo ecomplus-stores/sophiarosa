@@ -12,9 +12,9 @@
   },
   "categories_list": {
     "featured": [
-      "/promocoes?PROMOÇÕES"
+      "/essencia?ESSENCIA"
     ],
-    "random": 6,
+    "random": 7,
     "full_width": true
   },
   "desktop_megamenu": true,
