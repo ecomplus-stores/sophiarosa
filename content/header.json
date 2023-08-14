@@ -12,7 +12,8 @@
   },
   "categories_list": {
     "featured": [
-      "/antix?Antix"
+      "/antix?Antix",
+      "/vestidos?Vestidos"
     ],
     "random": 10,
     "full_width": true
