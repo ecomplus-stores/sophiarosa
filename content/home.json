@@ -12,10 +12,11 @@
       "limit": 8,
       "page": 1,
       "collection_ids": [
-        "622a557b8bd0103c54ec9c24:categories:Short:/short",
-        "64d3e7b32cd6b659591070f6:categories:Vestidos:/vestidos"
+        "64bc05b05e606903706f0a07:categories:Vestido Curto:/vestido-curto",
+        "64bc07295e606903706f0b75:categories:Vestidos Midi :/vestido-midi",
+        "64bc0ae85e606903706f1064:categories:Vestidos Longos :/vestido-longo"
       ],
-      "shelfs_title": "",
+      "shelfs_title": "Vestidos",
       "sort": "news"
     },
     {
@@ -24,11 +25,11 @@
       "limit": 8,
       "page": 1,
       "collection_ids": [
-        "6241bf6c2e405e04ff046a50:categories:Macacão:/macacao",
-        "64d3e7b32cd6b659591070f6:categories:Vestidos:/vestidos"
+        "64beac515e60690370714242:categories:Saias Midi:/saias-midi",
+        "64bedbd65e6069037071adad:categories:Short Saia:/short-saia"
       ],
-      "shelfs_title": "Mais Queridos",
-      "sort": "views"
+      "shelfs_title": "Saias",
+      "sort": "news"
     },
     {
       "type": "shelfs-nav",
