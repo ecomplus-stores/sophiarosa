@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5212e9cbefc8cad43b9debf6e92400c8.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.3aa7693d006e14a7e9c76cd1f1e75f60.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.a52780229084acf85163a02668384bf4.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.b93c2b5dd800e5199a0da80dc0cfe31c.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.c33ccbd3799e554fa5b47508b304a06f.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "SHOPIA ROSA BOUTIQUE",
+  "short_name": "sophiarosa",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "sophiarosa",
+  "background_color": "#ffffff",
+  "theme_color": "#1c1a1a"
+}
